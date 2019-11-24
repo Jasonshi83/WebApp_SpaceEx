@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d87b04e-3510-4de0-b3a4-d252ab710127" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Software-Carpentry" beforeDir="false" afterPath="$PROJECT_DIR$/../../Software-Carpentry" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/RegistrationIcon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/correct_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/error_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/Space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/challenges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/dice-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PigGame/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +57,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,23 +80,25 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.29095352" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Pictures" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/PigGame" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/scripts" />
-      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,6 +140,10 @@
       <workItem from="1571869481530" duration="50000" />
       <workItem from="1573724420685" duration="2214000" />
       <workItem from="1574148166032" duration="719000" />
+      <workItem from="1574154248242" duration="1208000" />
+      <workItem from="1574247635247" duration="3136000" />
+      <workItem from="1574423999560" duration="598000" />
+      <workItem from="1574540584992" duration="15917000" />
     </task>
     <task id="LOCAL-00001" summary="Submit of the first service web application.">
       <created>1574148247997</created>
@@ -146,8 +172,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
     <MESSAGE value="Submit of the first service web application." />
-    <option name="LAST_COMMIT_MESSAGE" value="Submit of the first service web application." />
+    <MESSAGE value="Delete the test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete the test code" />
   </component>
   <component name="masterDetails">
     <states>

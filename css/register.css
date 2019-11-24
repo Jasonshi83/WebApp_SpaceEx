@@ -1,0 +1,114 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;}
+
+header{
+    height: 90px;
+    border-bottom: 2px solid black;
+}
+
+.logo{
+    padding-top: 10px;
+    float: right;
+}
+
+.logo img{
+    max-height: 70px;
+}
+
+.registerarea{
+    height: 600px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.registerarea h3{
+    height: 50px;
+    border-bottom: 1px solid black;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    padding:0 10px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Biryani', sans-serif;
+}
+
+.registerarea h3 a{
+    background-color: black;
+}
+
+.login{
+    float: right;
+    font-size: 14px;
+}
+
+.login a{
+    font-size: 14px;
+    color: red;
+}
+
+.reg_form{
+    width: 600px;
+    margin: 50px auto 0 auto;
+    font-family: 'Biryani', sans-serif;
+}
+
+.reg_form ul li{
+ margin-bottom: 20px;
+}
+
+.reg_form ul li label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.reg_form ul li input{
+    width: 200px;
+    height: 37px;
+    border: 1px solid #808385;
+}
+
+.error{
+    color: red;
+}
+/*selector， combined error_icon and success_icon together, however, when running success_icon, it will load the picture from individual css file*/
+.error_icon,
+.success_icon{
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../Pictures/error_icon.png) no-repeat;
+    margin-top: -2px;
+}
+
+.success{
+    color: green;
+}
+
+.success_icon{
+    background: url("../Pictures/correct_icon.png") no-repeat;
+}
+
+.safe{
+    padding-left: 67px;
+    font-size: 10px;
+}
+
+.safe em{
+    padding: 0 12px;
+}
+
+.weak{
+background-color: red;
+}
+
+.medium{
+background-color: #b5b325;
+}
+
+.strong{
+background-color: #13b50e;
+}
